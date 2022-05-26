@@ -1,0 +1,26 @@
+@media screen and (max-width:760px) {
+    main {
+         flex-direction: column;
+    }
+
+    p{
+        font-size: 20px;
+        line-height: 10px;
+        margin-bottom: 20px;
+    }
+    
+     #recent{
+         display:none;
+     }
+
+
+    form{
+        flex-direction: column;
+        margin-left: -7vh;
+    }
+
+    #square {
+        display: none;
+    }
+
+}
